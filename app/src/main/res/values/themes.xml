@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="Base.Theme.MyPushNotification" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.MyPushNotification" parent="Base.Theme.MyPushNotification" />
+</resources>
